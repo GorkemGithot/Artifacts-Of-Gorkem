@@ -2,7 +2,7 @@
 """
 Created on Thu May 18 17:57:11 2023
 
-@author: Acer
+@author: Acer Gorkem
 """
 
 class Book:
